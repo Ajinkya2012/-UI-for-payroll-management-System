@@ -1,0 +1,148 @@
+<mxfile host="Electron" modified="2023-04-23T22:04:20.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="Tx9Icvw3rsquydrh8TWK" version="21.1.2" type="device">
+  <diagram name="Page-1" id="uHvMw58qS8uGZ-ix74A2">
+    <mxGraphModel dx="1890" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gEb4b2PIir80PRkTaEHa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="-50" width="470" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-2" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;Employee&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="710" y="102.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-4" value="&lt;b&gt;Generate Employee Records&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-7" value="&lt;b&gt;Enter Employee information&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="310" y="90" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-8" value="&lt;b&gt;Time sheet Data&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="390" y="215" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-9" value="&lt;b&gt;Calcuate Pay roll&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="230" y="310" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-11" value="&lt;b&gt;Tax Deduction&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="420" y="285" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-13" value="&lt;b&gt;Generate Payroll Report&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="240" y="385" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-14" value="&lt;b&gt;Generate Tax Report&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gEb4b2PIir80PRkTaEHa-15" value="&lt;b&gt;Update Employee Records&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;HR Department&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="115" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-4" value="&lt;b&gt;Process Employee Termination&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="200" y="250" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Manage payroll Disputes&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="250" y="450" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-6" value="&lt;b&gt;Set up direct deposit&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;TAX AUTHORITY&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-7" target="gEb4b2PIir80PRkTaEHa-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-7" target="wp_XAsSW5gDIgWgZ_M9L-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="133" as="sourcePoint" />
+            <mxPoint x="735" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-8" target="gEb4b2PIir80PRkTaEHa-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="143" as="sourcePoint" />
+            <mxPoint x="735" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Payroll Administrator&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;shadow=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-9" target="wp_XAsSW5gDIgWgZ_M9L-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="143" as="sourcePoint" />
+            <mxPoint x="95" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-20" value="" style="endArrow=block;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-9" target="gEb4b2PIir80PRkTaEHa-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="248" as="sourcePoint" />
+            <mxPoint x="95" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-13" target="wp_XAsSW5gDIgWgZ_M9L-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="248" as="sourcePoint" />
+            <mxPoint x="95" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-4" target="wp_XAsSW5gDIgWgZ_M9L-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="143" as="sourcePoint" />
+            <mxPoint x="95" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-23" value="" style="endArrow=block;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-9" target="gEb4b2PIir80PRkTaEHa-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="530" as="sourcePoint" />
+            <mxPoint x="510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="gEb4b2PIir80PRkTaEHa-15" target="wp_XAsSW5gDIgWgZ_M9L-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="143" as="sourcePoint" />
+            <mxPoint x="95" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-25" value="&lt;b&gt;Generate Benefit Report&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="190" y="20" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;startArrow=blockThin;startFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-25" target="wp_XAsSW5gDIgWgZ_M9L-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="95" as="sourcePoint" />
+            <mxPoint x="90" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-4" target="wp_XAsSW5gDIgWgZ_M9L-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="448" as="sourcePoint" />
+            <mxPoint x="90" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-5" target="wp_XAsSW5gDIgWgZ_M9L-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="348" as="sourcePoint" />
+            <mxPoint x="95" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-30" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-6" target="gEb4b2PIir80PRkTaEHa-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="118" as="sourcePoint" />
+            <mxPoint x="720" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wp_XAsSW5gDIgWgZ_M9L-31" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#171716;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endFill=1;" parent="1" source="wp_XAsSW5gDIgWgZ_M9L-1" target="wp_XAsSW5gDIgWgZ_M9L-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="130" as="sourcePoint" />
+            <mxPoint x="735" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YnY5Ib4KuNP-z_DeqnXt-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PAYROLL MANAGEMENT SYSTEM&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="230" y="-40" width="340" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
